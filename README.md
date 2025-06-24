@@ -3,7 +3,7 @@ ESPAÑOL:
 # 👋 Hola, soy Rodrigo Meneses
 Recientemente completé un Grado Superior en Desarrollo de Aplicaciones Web Multiplataforma, donde trabajé con tecnologías como Java, JavaScript, PHP, SQL y HTML/CSS.
 
-🔧 Tecnologías
+Tecnologías:
 Lenguajes: Java, JavaScript, PHP, SQL
 Herramientas y Frameworks: XAMPP, MySQL, Spring, Laravel (básico), Android Studio
 Frontend: HTML, CSS, Bootstrap
@@ -16,8 +16,7 @@ Aquí te presento algunos de los proyectos en los que he trabajado, ya sea indiv
 📆 Sistema de Reservas – proyecto grupal realizado con PHP y SQL (panel de administración, CRUD)
 👉 Algunos proyectos aún están en desarrollo, pero están disponibles para ver mi estilo de código y lógica.
 
-📫 Contacto
-No dudes en contactarme a través de LinkedIn: LinkedIn: https://www.linkedin.com/in/rodrigo-alessandro-meneses-arguello-9a6543247/ o por correo electrónico en alessmenes@gmail.com
+📫 No dudes en contactarme a través de LinkedIn: LinkedIn: https://www.linkedin.com/in/rodrigo-alessandro-meneses-arguello-9a6543247/ o por correo electrónico en alessmenes@gmail.com
 
 
 
@@ -27,7 +26,7 @@ ENGLISH:
 
 I'm a junior web developer with a strong interest in building functional, clean and scalable applications. I recently completed a Higher Technical Degree in Cross-Platform Web Development, where I worked with technologies like Java, JavaScript, PHP, SQL, and HTML/CSS.
 
-## 🔧 Tech Stack
+## Tech Stack
 - Languages: Java, JavaScript, PHP, SQL
 - Tools & Frameworks: XAMPP, MySQL, Spring, Laravel (basic), Android Studio
 - Frontend: HTML, CSS, Bootstrap
