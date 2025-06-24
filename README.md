@@ -1,7 +1,7 @@
 ESPAÑOL:
 
 # 👋 Hola, soy Rodrigo Meneses
-Soy un desarrollador web junior con un gran interés en construir aplicaciones funcionales, limpias y escalables. Recientemente completé un Grado Superior en Desarrollo de Aplicaciones Web Multiplataforma, donde trabajé con tecnologías como Java, JavaScript, PHP, SQL y HTML/CSS.
+Recientemente completé un Grado Superior en Desarrollo de Aplicaciones Web Multiplataforma, donde trabajé con tecnologías como Java, JavaScript, PHP, SQL y HTML/CSS.
 
 🔧 Tecnologías
 Lenguajes: Java, JavaScript, PHP, SQL
