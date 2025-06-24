@@ -1,7 +1,7 @@
 ESPAÑOL:
 
 # 👋 Hola, soy Rodrigo Meneses
-Recientemente completé un Grado Superior en Desarrollo de Aplicaciones Web Multiplataforma, donde trabajé con tecnologías como Java, JavaScript, PHP, SQL y HTML/CSS.
+Recientemente completé un Grado Superior en Desarrollo de Aplicaciones Web Multiplataforma en Madrid, donde pude aprender tecnologías como Java, JavaScript, PHP, SQL y HTML/CSS.
 
 Tecnologías:
 Lenguajes: Java, JavaScript, PHP, SQL
@@ -24,7 +24,7 @@ ENGLISH:
 
 # 👋 Hi, I'm Rodrigo Meneses
 
-I'm a junior web developer with a strong interest in building functional, clean and scalable applications. I recently completed a Higher Technical Degree in Cross-Platform Web Development, where I worked with technologies like Java, JavaScript, PHP, SQL, and HTML/CSS.
+I'm a junior web developer with a strong interest in building functional, clean and scalable applications. I recently completed a Higher Technical Degree in Cross-Platform Web Development in Madrid, where I learned technologies like Java, JavaScript, PHP, SQL, and HTML/CSS.
 
 ## Tech Stack
 - Languages: Java, JavaScript, PHP, SQL
